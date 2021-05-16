@@ -1,0 +1,80 @@
+2021-05-15 20:31:48,223 INFO ['blk00010.dat', 'blk00011.dat', 'blk00012.dat', 'blk00013.dat', 'blk00014.dat', 'blk00015.dat', 'blk00016.dat', 'blk00017.dat', 'blk00018.dat', 'blk00019.dat', 'blk00020.dat', 'blk00021.dat', 'blk00022.dat', 'index', 'rev00010.dat', 'rev00011.dat', 'rev00012.dat', 'rev00013.dat', 'rev00014.dat', 'rev00015.dat', 'rev00016.dat', 'rev00017.dat', 'rev00018.dat', 'rev00019.dat', 'rev00020.dat', 'rev00021.dat', 'rev00022.dat'] found in the path C:\Users\Anuhya\AppData\Roaming\Bitcoin\blocks
+2021-05-15 20:31:48,223 INFO analysing blk00010.dat
+2021-05-15 20:31:48,239 INFO File extension matched with .dat for file blk00010.dat
+2021-05-15 20:31:48,239 INFO blk00010.dat opened
+2021-05-15 20:31:50,490 INFO blk00010.dat: magic bytes matched with main net
+2021-05-15 20:31:53,075 INFO blk00010.dat closed
+2021-05-15 20:31:53,075 INFO analysing blk00011.dat
+2021-05-15 20:31:53,075 INFO File extension matched with .dat for file blk00011.dat
+2021-05-15 20:31:53,083 INFO blk00011.dat opened
+2021-05-15 20:31:55,573 INFO blk00011.dat: magic bytes matched with main net
+2021-05-15 20:31:58,139 INFO blk00011.dat closed
+2021-05-15 20:31:58,147 INFO analysing blk00012.dat
+2021-05-15 20:31:58,147 INFO File extension matched with .dat for file blk00012.dat
+2021-05-15 20:31:58,147 INFO blk00012.dat opened
+2021-05-15 20:32:00,652 INFO blk00012.dat: magic bytes matched with main net
+2021-05-15 20:32:03,363 INFO blk00012.dat closed
+2021-05-15 20:32:03,363 INFO analysing blk00013.dat
+2021-05-15 20:32:03,372 INFO File extension matched with .dat for file blk00013.dat
+2021-05-15 20:32:03,372 INFO blk00013.dat opened
+2021-05-15 20:32:05,933 INFO blk00013.dat: magic bytes matched with main net
+2021-05-15 20:32:08,573 INFO blk00013.dat closed
+2021-05-15 20:32:08,573 INFO analysing blk00014.dat
+2021-05-15 20:32:08,581 INFO File extension matched with .dat for file blk00014.dat
+2021-05-15 20:32:08,581 INFO blk00014.dat opened
+2021-05-15 20:32:11,213 INFO blk00014.dat: magic bytes matched with main net
+2021-05-15 20:32:13,843 INFO blk00014.dat closed
+2021-05-15 20:32:13,843 INFO analysing blk00015.dat
+2021-05-15 20:32:13,843 INFO File extension matched with .dat for file blk00015.dat
+2021-05-15 20:32:13,853 INFO blk00015.dat opened
+2021-05-15 20:32:16,365 INFO blk00015.dat: magic bytes matched with main net
+2021-05-15 20:32:19,013 INFO blk00015.dat closed
+2021-05-15 20:32:19,013 INFO analysing blk00016.dat
+2021-05-15 20:32:19,013 INFO File extension matched with .dat for file blk00016.dat
+2021-05-15 20:32:19,023 INFO blk00016.dat opened
+2021-05-15 20:32:21,561 INFO blk00016.dat: magic bytes matched with main net
+2021-05-15 20:32:24,148 INFO blk00016.dat closed
+2021-05-15 20:32:24,148 INFO analysing blk00017.dat
+2021-05-15 20:32:24,157 INFO File extension matched with .dat for file blk00017.dat
+2021-05-15 20:32:24,157 INFO blk00017.dat opened
+2021-05-15 20:32:26,650 INFO blk00017.dat: magic bytes matched with main net
+2021-05-15 20:32:29,256 INFO blk00017.dat closed
+2021-05-15 20:32:29,256 INFO analysing blk00018.dat
+2021-05-15 20:32:29,256 INFO File extension matched with .dat for file blk00018.dat
+2021-05-15 20:32:29,264 INFO blk00018.dat opened
+2021-05-15 20:32:31,771 INFO blk00018.dat: magic bytes matched with main net
+2021-05-15 20:32:34,390 INFO blk00018.dat closed
+2021-05-15 20:32:34,394 INFO analysing blk00019.dat
+2021-05-15 20:32:34,394 INFO File extension matched with .dat for file blk00019.dat
+2021-05-15 20:32:34,398 INFO blk00019.dat opened
+2021-05-15 20:32:37,227 INFO blk00019.dat: magic bytes matched with main net
+2021-05-15 20:32:39,941 INFO blk00019.dat closed
+2021-05-15 20:32:39,941 INFO analysing blk00020.dat
+2021-05-15 20:32:39,941 INFO File extension matched with .dat for file blk00020.dat
+2021-05-15 20:32:39,951 INFO blk00020.dat opened
+2021-05-15 20:32:42,545 INFO blk00020.dat: magic bytes matched with main net
+2021-05-15 20:32:45,145 INFO blk00020.dat closed
+2021-05-15 20:32:45,145 INFO analysing blk00021.dat
+2021-05-15 20:32:45,145 INFO File extension matched with .dat for file blk00021.dat
+2021-05-15 20:32:45,153 INFO blk00021.dat opened
+2021-05-15 20:32:47,678 INFO blk00021.dat: magic bytes matched with main net
+2021-05-15 20:32:50,347 INFO blk00021.dat closed
+2021-05-15 20:32:50,356 INFO analysing blk00022.dat
+2021-05-15 20:32:50,356 INFO File extension matched with .dat for file blk00022.dat
+2021-05-15 20:32:50,356 INFO blk00022.dat opened
+2021-05-15 20:32:52,887 INFO blk00022.dat: magic bytes matched with main net
+2021-05-15 20:32:55,488 INFO blk00022.dat closed
+2021-05-15 20:32:55,491 INFO analysing index
+2021-05-15 20:32:55,491 INFO analysing rev00010.dat
+2021-05-15 20:32:55,491 INFO analysing rev00011.dat
+2021-05-15 20:32:55,491 INFO analysing rev00012.dat
+2021-05-15 20:32:55,491 INFO analysing rev00013.dat
+2021-05-15 20:32:55,491 INFO analysing rev00014.dat
+2021-05-15 20:32:55,491 INFO analysing rev00015.dat
+2021-05-15 20:32:55,491 INFO analysing rev00016.dat
+2021-05-15 20:32:55,491 INFO analysing rev00017.dat
+2021-05-15 20:32:55,491 INFO analysing rev00018.dat
+2021-05-15 20:32:55,491 INFO analysing rev00019.dat
+2021-05-15 20:32:55,491 INFO analysing rev00020.dat
+2021-05-15 20:32:55,491 INFO analysing rev00021.dat
+2021-05-15 20:32:55,499 INFO analysing rev00022.dat
