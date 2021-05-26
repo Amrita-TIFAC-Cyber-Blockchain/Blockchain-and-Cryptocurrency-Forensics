@@ -47,6 +47,9 @@ To understand, explore and provide methods, procedures, tools & techniques for C
     - Implementation of Simple Bitcoin Block File Analyser using Python (AG) 
     - Implementation of Simple Bitcoin Explorer (Blockcypher) API using Python (AG)
     - Implementation of Simple Etherscan Explorer API using Python (AG)
+    - Exploring OSINT Tools for Bitcoin (ASB)
+    - Implementation of Simple Bitcoin OSINT Scanner using Python and OSINT-SPY (ASB)
+    - Implementation of Simple Bitcoin OSINT Scanner using Bash and OSINT-SPY (ASB)
 
 # Credits  
   - 2018
@@ -54,5 +57,6 @@ To understand, explore and provide methods, procedures, tools & techniques for C
   - 2020
     - Ramaguru R as Research Associate  
   - 2021 
-    - Anuhya Gandavaram guided by Ramaguru R (part of Cyber Forensics)
+    - Anuhya Gandavaram guided (AG) by Ramaguru R (part of Cyber Forensics)
+    - Anirudh Srinivas Balaji (ASB) guided by Ramaguru R (part of Cyber Forensics)
     
