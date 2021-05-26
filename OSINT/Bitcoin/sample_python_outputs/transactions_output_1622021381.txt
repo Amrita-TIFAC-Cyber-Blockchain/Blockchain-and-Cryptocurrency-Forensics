@@ -1,0 +1,1533 @@
+Height:: 685000
+Version:: 549453828
+Mrkl_root:: fecff18ea9e7f717b41d0eb29c8b67e20c9b7e8a159087fdb86115cf2f9c4a09
+Timestamp:: 1622020148
+Bits:: 386612457
+Nonce:: 188425265
+Hash:: 000000000000000000043a68d9e09f48eeb485ac28bde0abb6e0b6cb6e726a21
+Prev_block_hash:: 000000000000000000063b5a79e1cf3c6e72fa61674d0508d0e14cf5926e8057
+Next_block_hash:: 0000000000000000000000000000000000000000000000000000000000000000
+Size:: 1253951
+Pool_difficulty:: 66570656374443
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1911
+Reward_block:: 625000000
+Reward_fees:: 100069328
+Confirmations:: 1
+Is_orphan:: False
+Curr_max_timestamp:: 1622020148
+Is_sw_block:: True
+Stripped_size:: 913140
+Sigops:: 12883
+Weight:: 3993371
+Extras::
+	Pool_name:: BTC.com
+	Pool_link:: https://pool.btc.com
+
+Height:: 684999
+Version:: 545259524
+Mrkl_root:: 6d0b8388462f04d1717e5c6cc2545c9297fd2ba36c5f51696518801a79b5c117
+Timestamp:: 1622018908
+Bits:: 386612457
+Nonce:: 4117061763
+Hash:: 000000000000000000063b5a79e1cf3c6e72fa61674d0508d0e14cf5926e8057
+Prev_block_hash:: 00000000000000000006ca57b0e53369f09ba733cf468ead196312e44e2bfa05
+Next_block_hash:: 000000000000000000043a68d9e09f48eeb485ac28bde0abb6e0b6cb6e726a21
+Size:: 1187370
+Pool_difficulty:: 45166530199389
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1239
+Reward_block:: 625000000
+Reward_fees:: 97594587
+Confirmations:: 2
+Is_orphan:: False
+Curr_max_timestamp:: 1622018908
+Is_sw_block:: True
+Stripped_size:: 935388
+Sigops:: 9882
+Weight:: 3993534
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684998
+Version:: 536870916
+Mrkl_root:: c601438f68c68ce04dbe2631b07fc5317d4a07cc8dcbb9fb2b1683fc4f23ae9f
+Timestamp:: 1622018171
+Bits:: 386612457
+Nonce:: 961994978
+Hash:: 00000000000000000006ca57b0e53369f09ba733cf468ead196312e44e2bfa05
+Prev_block_hash:: 0000000000000000000701fe06a3c4a10bec618f8f94730a4817f6bbaeac472a
+Next_block_hash:: 000000000000000000063b5a79e1cf3c6e72fa61674d0508d0e14cf5926e8057
+Size:: 1329223
+Pool_difficulty:: 41451327705207
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2794
+Reward_block:: 625000000
+Reward_fees:: 102227124
+Confirmations:: 3
+Is_orphan:: False
+Curr_max_timestamp:: 1622018171
+Is_sw_block:: True
+Stripped_size:: 888011
+Sigops:: 19144
+Weight:: 3993256
+Extras::
+	Pool_name:: BTC.com
+	Pool_link:: https://pool.btc.com
+
+Height:: 684997
+Version:: 536870916
+Mrkl_root:: 198050f30e07f59dfe43c128d581918c79e9f321190dbc7d5773b83d412709be
+Timestamp:: 1622017039
+Bits:: 386612457
+Nonce:: 2014771386
+Hash:: 0000000000000000000701fe06a3c4a10bec618f8f94730a4817f6bbaeac472a
+Prev_block_hash:: 0000000000000000000b296629763f71ab7825bf08d25f3cf7fe92f8c773d7b9
+Next_block_hash:: 00000000000000000006ca57b0e53369f09ba733cf468ead196312e44e2bfa05
+Size:: 1449366
+Pool_difficulty:: 40165444993778
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 3095
+Reward_block:: 625000000
+Reward_fees:: 114429011
+Confirmations:: 4
+Is_orphan:: False
+Curr_max_timestamp:: 1622017039
+Is_sw_block:: True
+Stripped_size:: 847933
+Sigops:: 21511
+Weight:: 3993165
+Extras::
+	Pool_name:: BTC.com
+	Pool_link:: https://pool.btc.com
+
+Height:: 684996
+Version:: 536887300
+Mrkl_root:: a23b889f658a4509aee4657061f14d34c9dc499fba6e44d088cc16caa5d717bb
+Timestamp:: 1622014161
+Bits:: 386612457
+Nonce:: 3821241947
+Hash:: 0000000000000000000b296629763f71ab7825bf08d25f3cf7fe92f8c773d7b9
+Prev_block_hash:: 000000000000000000046cfd739290e6519b9be43c9d0a0e39df8b6434697f0b
+Next_block_hash:: 0000000000000000000701fe06a3c4a10bec618f8f94730a4817f6bbaeac472a
+Size:: 1254651
+Pool_difficulty:: 25217517298477
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2593
+Reward_block:: 625000000
+Reward_fees:: 52120928
+Confirmations:: 5
+Is_orphan:: False
+Curr_max_timestamp:: 1622014161
+Is_sw_block:: True
+Stripped_size:: 912848
+Sigops:: 16875
+Weight:: 3993195
+Extras::
+	Pool_name:: Binance Pool
+	Pool_link:: https://pool.binance.com/
+
+Height:: 684995
+Version:: 805298180
+Mrkl_root:: 84bcafbea21bbcd33a8c21d028226844c839cdafa2a63fe1793539b0c2d654fd
+Timestamp:: 1622013379
+Bits:: 386612457
+Nonce:: 1485733093
+Hash:: 000000000000000000046cfd739290e6519b9be43c9d0a0e39df8b6434697f0b
+Prev_block_hash:: 00000000000000000007f93a432203f785cd20e3bffeee8eb2c00407fb2511a2
+Next_block_hash:: 000000000000000000063e8299980ee325063e343a7a0e5f39fa7f6bf8bc4582
+Size:: 1299271
+Pool_difficulty:: 63598622967928
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2245
+Reward_block:: 625000000
+Reward_fees:: 62952012
+Confirmations:: 6
+Is_orphan:: False
+Curr_max_timestamp:: 1622013379
+Is_sw_block:: True
+Stripped_size:: 897881
+Sigops:: 16014
+Weight:: 3992914
+Extras::
+	Pool_name:: Binance Pool
+	Pool_link:: https://pool.binance.com/
+
+Height:: 684994
+Version:: 1073676292
+Mrkl_root:: 7adb8ded69552561c7fad87696b971aa9896eb63758d90e666da7f30406e7f95
+Timestamp:: 1622012652
+Bits:: 386612457
+Nonce:: 2938789181
+Hash:: 00000000000000000007f93a432203f785cd20e3bffeee8eb2c00407fb2511a2
+Prev_block_hash:: 00000000000000000009dba010b3aea59c363a092a086638b62977e261b4270c
+Next_block_hash:: 00000000000000000009a13d17e25b508b9d001113794bb7b06f23d061acfee8
+Size:: 1269390
+Pool_difficulty:: 35300586348459
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2424
+Reward_block:: 625000000
+Reward_fees:: 35393847
+Confirmations:: 7
+Is_orphan:: False
+Curr_max_timestamp:: 1622012652
+Is_sw_block:: True
+Stripped_size:: 909704
+Sigops:: 17261
+Weight:: 3998502
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684993
+Version:: 805298180
+Mrkl_root:: 2a839d69d8562ef752da03266a378c3537bc26e89a1bcff7b4d2a599aac0bc6f
+Timestamp:: 1622012233
+Bits:: 386612457
+Nonce:: 1464703263
+Hash:: 00000000000000000009dba010b3aea59c363a092a086638b62977e261b4270c
+Prev_block_hash:: 00000000000000000009e4affcad219df5350e8f1275fd4aaecbb8566088a632
+Next_block_hash:: 00000000000000000003e5e5a9530d27865df90e7052b9b954037a1ba4c0c00d
+Size:: 1418773
+Pool_difficulty:: 28552774095319
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2397
+Reward_block:: 625000000
+Reward_fees:: 83411182
+Confirmations:: 8
+Is_orphan:: False
+Curr_max_timestamp:: 1622012233
+Is_sw_block:: True
+Stripped_size:: 859869
+Sigops:: 22044
+Weight:: 3998380
+Extras::
+	Pool_name:: Huobi.pool
+	Pool_link:: https://www.hpt.com/
+
+Height:: 684992
+Version:: 541065220
+Mrkl_root:: 76d00839cbf48067e80260b8b4ca0f42346c6f3ccf25d5979d99167dc75c428d
+Timestamp:: 1622011063
+Bits:: 386612457
+Nonce:: 492969752
+Hash:: 00000000000000000009e4affcad219df5350e8f1275fd4aaecbb8566088a632
+Prev_block_hash:: 0000000000000000000412a2bdd2e29604413f94404e74f762f168b6b2b887dd
+Next_block_hash:: 00000000000000000005d4b5a3b11f699f329ede7793f54ba9ad0532177a9d28
+Size:: 1304424
+Pool_difficulty:: 28450650015705
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1506
+Reward_block:: 625000000
+Reward_fees:: 98448759
+Confirmations:: 9
+Is_orphan:: False
+Curr_max_timestamp:: 1622011063
+Is_sw_block:: True
+Stripped_size:: 898045
+Sigops:: 12984
+Weight:: 3998559
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684991
+Version:: 549453828
+Mrkl_root:: ab9c706b6d6f1554a8cdc42634ed7ff7ea2cae06a9a23050d0eede80ecd2e60f
+Timestamp:: 1622010054
+Bits:: 386612457
+Nonce:: 2189775828
+Hash:: 0000000000000000000412a2bdd2e29604413f94404e74f762f168b6b2b887dd
+Prev_block_hash:: 00000000000000000001f6409115daeb552d8cb5d74dc3fbb839711410e04334
+Next_block_hash:: 00000000000000000009e4affcad219df5350e8f1275fd4aaecbb8566088a632
+Size:: 1599081
+Pool_difficulty:: 69110135094947
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1027
+Reward_block:: 625000000
+Reward_fees:: 29251196
+Confirmations:: 10
+Is_orphan:: False
+Curr_max_timestamp:: 1622010054
+Is_sw_block:: True
+Stripped_size:: 799686
+Sigops:: 14323
+Weight:: 3998139
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684990
+Version:: 538968068
+Mrkl_root:: 88c5ac4f7c33cb14e95c480a9c04bca6f8153db39c74cb5983426853604c2d74
+Timestamp:: 1622010011
+Bits:: 386612457
+Nonce:: 421271707
+Hash:: 00000000000000000001f6409115daeb552d8cb5d74dc3fbb839711410e04334
+Prev_block_hash:: 0000000000000000000a4af3ce33fd9d3a82eb441109ee72c12b0b95c43adedc
+Next_block_hash:: 0000000000000000000412a2bdd2e29604413f94404e74f762f168b6b2b887dd
+Size:: 1406999
+Pool_difficulty:: 143467385816426
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 803
+Reward_block:: 625000000
+Reward_fees:: 88255018
+Confirmations:: 11
+Is_orphan:: False
+Curr_max_timestamp:: 1622010011
+Is_sw_block:: True
+Stripped_size:: 864175
+Sigops:: 9388
+Weight:: 3999524
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+Height:: 684989
+Version:: 538968068
+Mrkl_root:: a74b2f755796df5d77cccc1824bb73a7551bda9e331324ac1b20473e701e7bcc
+Timestamp:: 1622009651
+Bits:: 386612457
+Nonce:: 271131021
+Hash:: 0000000000000000000a4af3ce33fd9d3a82eb441109ee72c12b0b95c43adedc
+Prev_block_hash:: 000000000000000000043a549aae0da0c4108fc6fbcceca085993c903f83d236
+Next_block_hash:: 00000000000000000001f6409115daeb552d8cb5d74dc3fbb839711410e04334
+Size:: 1348026
+Pool_difficulty:: 27346445242114
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1579
+Reward_block:: 625000000
+Reward_fees:: 97768955
+Confirmations:: 12
+Is_orphan:: False
+Curr_max_timestamp:: 1622009651
+Is_sw_block:: True
+Stripped_size:: 881871
+Sigops:: 12907
+Weight:: 3993639
+Extras::
+	Pool_name:: ViaBTC
+	Pool_link:: https://viabtc.com
+
+Height:: 684988
+Version:: 536870916
+Mrkl_root:: 91b6d6ba1b8c5250fb782ef50dc7522faceb90ac44dd7560e06dcbd4d5a3e9d3
+Timestamp:: 1622008475
+Bits:: 386612457
+Nonce:: 3808361047
+Hash:: 000000000000000000043a549aae0da0c4108fc6fbcceca085993c903f83d236
+Prev_block_hash:: 0000000000000000000406078d8c0a791b8d80ebdea099a402387147fae81e0f
+Next_block_hash:: 0000000000000000000a4af3ce33fd9d3a82eb441109ee72c12b0b95c43adedc
+Size:: 1206286
+Pool_difficulty:: 66575461601628
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1387
+Reward_block:: 625000000
+Reward_fees:: 29849162
+Confirmations:: 13
+Is_orphan:: False
+Curr_max_timestamp:: 1622008475
+Is_sw_block:: True
+Stripped_size:: 930677
+Sigops:: 10422
+Weight:: 3998317
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684987
+Version:: 536870916
+Mrkl_root:: 28282969c5b47ef2269879fa508016810aeed09dad09651e6592bafc895a8380
+Timestamp:: 1622007987
+Bits:: 386612457
+Nonce:: 2701910054
+Hash:: 0000000000000000000406078d8c0a791b8d80ebdea099a402387147fae81e0f
+Prev_block_hash:: 00000000000000000005b3e6cb5de86885784e3b379604375306b0c8bf904984
+Next_block_hash:: 000000000000000000043a549aae0da0c4108fc6fbcceca085993c903f83d236
+Size:: 1623813
+Pool_difficulty:: 69955904533529
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1457
+Reward_block:: 625000000
+Reward_fees:: 35585841
+Confirmations:: 14
+Is_orphan:: False
+Curr_max_timestamp:: 1622007987
+Is_sw_block:: True
+Stripped_size:: 791888
+Sigops:: 15284
+Weight:: 3999477
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+Height:: 684986
+Version:: 536870916
+Mrkl_root:: 087920e8028fdfdcdc0d328b2f5e75f240d6f6fca68ff6515053cdabc8314e8a
+Timestamp:: 1622007465
+Bits:: 386612457
+Nonce:: 1839546390
+Hash:: 00000000000000000005b3e6cb5de86885784e3b379604375306b0c8bf904984
+Prev_block_hash:: 00000000000000000005c32a4896c70d292243e3cf3c4b90b730554aef3eb9be
+Next_block_hash:: 0000000000000000000406078d8c0a791b8d80ebdea099a402387147fae81e0f
+Size:: 1473805
+Pool_difficulty:: 49357196826440
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2318
+Reward_block:: 625000000
+Reward_fees:: 81651303
+Confirmations:: 15
+Is_orphan:: False
+Curr_max_timestamp:: 1622007465
+Is_sw_block:: True
+Stripped_size:: 841536
+Sigops:: 17795
+Weight:: 3998413
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684985
+Version:: 1073733636
+Mrkl_root:: 2206175b39645525d61b328c000184e70d8df0dfe3de075109579e0c5cc2402f
+Timestamp:: 1622005987
+Bits:: 386612457
+Nonce:: 466189204
+Hash:: 00000000000000000005c32a4896c70d292243e3cf3c4b90b730554aef3eb9be
+Prev_block_hash:: 00000000000000000001cc6eccb4c5c59cfb82485b09fc5fec7a520a13b82d06
+Next_block_hash:: 00000000000000000005b3e6cb5de86885784e3b379604375306b0c8bf904984
+Size:: 1031902
+Pool_difficulty:: 48846427565611
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 102
+Reward_block:: 625000000
+Reward_fees:: 8162594
+Confirmations:: 16
+Is_orphan:: False
+Curr_max_timestamp:: 1622005987
+Is_sw_block:: True
+Stripped_size:: 987233
+Sigops:: 925
+Weight:: 3993601
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684984
+Version:: 536870916
+Mrkl_root:: d1b55d4bc6acfed4eb6fc31c5dc8881500cf8452e232248287aa6f21a6f0b407
+Timestamp:: 1622005954
+Bits:: 386612457
+Nonce:: 1814427682
+Hash:: 00000000000000000001cc6eccb4c5c59cfb82485b09fc5fec7a520a13b82d06
+Prev_block_hash:: 00000000000000000005fb1f7a6f4f3cfe0f9466d97dff39f779ec18195e886b
+Next_block_hash:: 00000000000000000005c32a4896c70d292243e3cf3c4b90b730554aef3eb9be
+Size:: 1013863
+Pool_difficulty:: 156498367682470
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 119
+Reward_block:: 625000000
+Reward_fees:: 8772074
+Confirmations:: 17
+Is_orphan:: False
+Curr_max_timestamp:: 1622005954
+Is_sw_block:: True
+Stripped_size:: 995155
+Sigops:: 1055
+Weight:: 3999328
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+Height:: 684983
+Version:: 541065220
+Mrkl_root:: aeb87cbf4062cd758f2d3566adcf4a787ff4a21d42891ad3e2949ac608b3da3d
+Timestamp:: 1622005923
+Bits:: 386612457
+Nonce:: 3522188968
+Hash:: 00000000000000000005fb1f7a6f4f3cfe0f9466d97dff39f779ec18195e886b
+Prev_block_hash:: 0000000000000000000243657119bf26bee96986ad2e5d374364b07362747081
+Next_block_hash:: 00000000000000000001cc6eccb4c5c59cfb82485b09fc5fec7a520a13b82d06
+Size:: 1135721
+Pool_difficulty:: 47061264337897
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 686
+Reward_block:: 625000000
+Reward_fees:: 30211358
+Confirmations:: 18
+Is_orphan:: False
+Curr_max_timestamp:: 1622005923
+Is_sw_block:: True
+Stripped_size:: 952590
+Sigops:: 5208
+Weight:: 3993491
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684982
+Version:: 1073733636
+Mrkl_root:: e034007cad0e63a6c6f4dc45144a09b69cbd653d27532b8439dd79aa921f8ed0
+Timestamp:: 1622005621
+Bits:: 386612457
+Nonce:: 1334055
+Hash:: 0000000000000000000243657119bf26bee96986ad2e5d374364b07362747081
+Prev_block_hash:: 00000000000000000007c3ce541a3332fc25ec9bfa3429b34610a550ac27b60f
+Next_block_hash:: 00000000000000000005fb1f7a6f4f3cfe0f9466d97dff39f779ec18195e886b
+Size:: 1274544
+Pool_difficulty:: 124365161629751
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1688
+Reward_block:: 625000000
+Reward_fees:: 27183155
+Confirmations:: 19
+Is_orphan:: False
+Curr_max_timestamp:: 1622005621
+Is_sw_block:: True
+Stripped_size:: 906317
+Sigops:: 22831
+Weight:: 3993495
+Extras::
+	Pool_name:: ViaBTC
+	Pool_link:: https://viabtc.com
+
+Height:: 684981
+Version:: 805298180
+Mrkl_root:: 96661287e1781ecfd9a8850f87be5d39af3dc7799d84aefc3a3efdb7574a5364
+Timestamp:: 1622005224
+Bits:: 386612457
+Nonce:: 25997256
+Hash:: 00000000000000000007c3ce541a3332fc25ec9bfa3429b34610a550ac27b60f
+Prev_block_hash:: 00000000000000000003b51caa13f75eb6ff19dbc1cb71edd65b482fd89ba4fa
+Next_block_hash:: 0000000000000000000243657119bf26bee96986ad2e5d374364b07362747081
+Size:: 1281883
+Pool_difficulty:: 36249282929764
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2008
+Reward_block:: 625000000
+Reward_fees:: 49551625
+Confirmations:: 20
+Is_orphan:: False
+Curr_max_timestamp:: 1622005224
+Is_sw_block:: True
+Stripped_size:: 905541
+Sigops:: 13918
+Weight:: 3998506
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684980
+Version:: 536895492
+Mrkl_root:: 09e904d06f424dd9fe0a70cc3f313acdf11a177f5d869841e85c3f7a24838a73
+Timestamp:: 1622004530
+Bits:: 386612457
+Nonce:: 3338783689
+Hash:: 00000000000000000003b51caa13f75eb6ff19dbc1cb71edd65b482fd89ba4fa
+Prev_block_hash:: 000000000000000000063e8299980ee325063e343a7a0e5f39fa7f6bf8bc4582
+Next_block_hash:: 00000000000000000007c3ce541a3332fc25ec9bfa3429b34610a550ac27b60f
+Size:: 1560879
+Pool_difficulty:: 75920116716053
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 932
+Reward_block:: 625000000
+Reward_fees:: 26630688
+Confirmations:: 21
+Is_orphan:: False
+Curr_max_timestamp:: 1622004530
+Is_sw_block:: True
+Stripped_size:: 810630
+Sigops:: 15456
+Weight:: 3992769
+Extras::
+	Pool_name:: Foundry USA
+	Pool_link:: https://foundrydigital.com/
+
+Height:: 684979
+Version:: 541065220
+Mrkl_root:: 219f782a7002e18be97b5f3bc20794ca1d2f6f66249b20af5567940a097fc11a
+Timestamp:: 1622004500
+Bits:: 386612457
+Nonce:: 3894062600
+Hash:: 000000000000000000063e8299980ee325063e343a7a0e5f39fa7f6bf8bc4582
+Prev_block_hash:: 00000000000000000009a13d17e25b508b9d001113794bb7b06f23d061acfee8
+Next_block_hash:: 00000000000000000003b51caa13f75eb6ff19dbc1cb71edd65b482fd89ba4fa
+Size:: 1371096
+Pool_difficulty:: 45077348989372
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2838
+Reward_block:: 625000000
+Reward_fees:: 107881748
+Confirmations:: 22
+Is_orphan:: False
+Curr_max_timestamp:: 1622004500
+Is_sw_block:: True
+Stripped_size:: 873871
+Sigops:: 19071
+Weight:: 3992709
+Extras::
+	Pool_name:: BTC.com
+	Pool_link:: https://pool.btc.com
+
+Height:: 684978
+Version:: 536870916
+Mrkl_root:: 70b86986fb497677f50e492842d6d1edfe5cad8d4b2ff7cd4afe4addde38c86d
+Timestamp:: 1622001948
+Bits:: 386612457
+Nonce:: 4042827434
+Hash:: 00000000000000000009a13d17e25b508b9d001113794bb7b06f23d061acfee8
+Prev_block_hash:: 00000000000000000008e693665d7719c3f62e76142f9108f81651c8ff5ccd5d
+Next_block_hash:: 000000000000000000063e8299980ee325063e343a7a0e5f39fa7f6bf8bc4582
+Size:: 1361159
+Pool_difficulty:: 29229018174163
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1482
+Reward_block:: 625000000
+Reward_fees:: 38746344
+Confirmations:: 23
+Is_orphan:: False
+Curr_max_timestamp:: 1622001948
+Is_sw_block:: True
+Stripped_size:: 879009
+Sigops:: 13824
+Weight:: 3998186
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684977
+Version:: 805298180
+Mrkl_root:: 92de3db7777a8470842f3920cce68d928d240d9004861b484c7d9a3d74e36329
+Timestamp:: 1622001711
+Bits:: 386612457
+Nonce:: 3445770011
+Hash:: 00000000000000000008e693665d7719c3f62e76142f9108f81651c8ff5ccd5d
+Prev_block_hash:: 00000000000000000003e090b7b47aaedd269b9196b68f58dd9f414e65210763
+Next_block_hash:: 00000000000000000009a13d17e25b508b9d001113794bb7b06f23d061acfee8
+Size:: 1334854
+Pool_difficulty:: 31623501193579
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1517
+Reward_block:: 625000000
+Reward_fees:: 34081478
+Confirmations:: 24
+Is_orphan:: False
+Curr_max_timestamp:: 1622001711
+Is_sw_block:: True
+Stripped_size:: 886048
+Sigops:: 16166
+Weight:: 3992998
+Extras::
+	Pool_name:: Binance Pool
+	Pool_link:: https://pool.binance.com/
+
+Height:: 684976
+Version:: 541065220
+Mrkl_root:: 8acb702ee1ae449b3b3467fdd236c939c58174be30b28c319ac4f231fe1014f0
+Timestamp:: 1622001539
+Bits:: 386612457
+Nonce:: 2967760840
+Hash:: 00000000000000000003e090b7b47aaedd269b9196b68f58dd9f414e65210763
+Prev_block_hash:: 000000000000000000028c799fa7ebe687ae213a94326b6376036d222f792e8a
+Next_block_hash:: 00000000000000000008e693665d7719c3f62e76142f9108f81651c8ff5ccd5d
+Size:: 1256748
+Pool_difficulty:: 72596430477980
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1655
+Reward_block:: 625000000
+Reward_fees:: 23115853
+Confirmations:: 25
+Is_orphan:: False
+Curr_max_timestamp:: 1622001539
+Is_sw_block:: True
+Stripped_size:: 912207
+Sigops:: 19923
+Weight:: 3993369
+Extras::
+	Pool_name:: 1THash
+	Pool_link:: https://www.1thash.top
+
+Height:: 684975
+Version:: 547356676
+Mrkl_root:: d10ec0a2821ca938cd5381678414f4fc950982ac7cbce74bd4561b6a32a2c991
+Timestamp:: 1622001340
+Bits:: 386612457
+Nonce:: 555355281
+Hash:: 000000000000000000028c799fa7ebe687ae213a94326b6376036d222f792e8a
+Prev_block_hash:: 00000000000000000003e8aea2203ad6abe9af526de2f786eaca6e0a473359f9
+Next_block_hash:: 00000000000000000003e090b7b47aaedd269b9196b68f58dd9f414e65210763
+Size:: 1432697
+Pool_difficulty:: 110436037182669
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1271
+Reward_block:: 625000000
+Reward_fees:: 48354156
+Confirmations:: 26
+Is_orphan:: False
+Curr_max_timestamp:: 1622001340
+Is_sw_block:: True
+Stripped_size:: 853586
+Sigops:: 17027
+Weight:: 3993455
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684974
+Version:: 541065220
+Mrkl_root:: e082acaa45d1861467a169aea00670652db0e2a6ae24a1091e3aec6be2058795
+Timestamp:: 1622001146
+Bits:: 386612457
+Nonce:: 2182927445
+Hash:: 00000000000000000003e8aea2203ad6abe9af526de2f786eaca6e0a473359f9
+Prev_block_hash:: 0000000000000000000a41e4b8239a419f898832b780d296e231d53905900b02
+Next_block_hash:: 000000000000000000028c799fa7ebe687ae213a94326b6376036d222f792e8a
+Size:: 1192338
+Pool_difficulty:: 72007551893372
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1313
+Reward_block:: 625000000
+Reward_fees:: 102466839
+Confirmations:: 27
+Is_orphan:: False
+Curr_max_timestamp:: 1622001146
+Is_sw_block:: True
+Stripped_size:: 935308
+Sigops:: 9291
+Weight:: 3998262
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684973
+Version:: 536870916
+Mrkl_root:: d8772acd0d38c87e541167c54976d959654c25d318c82bead0f28243134528e4
+Timestamp:: 1621999954
+Bits:: 386612457
+Nonce:: 1832038459
+Hash:: 0000000000000000000a41e4b8239a419f898832b780d296e231d53905900b02
+Prev_block_hash:: 000000000000000000023250cd844a802a0474d7a433c071cf0b748a43ee4a86
+Next_block_hash:: 00000000000000000003e8aea2203ad6abe9af526de2f786eaca6e0a473359f9
+Size:: 1497324
+Pool_difficulty:: 27440782887253
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1891
+Reward_block:: 625000000
+Reward_fees:: 39751313
+Confirmations:: 28
+Is_orphan:: False
+Curr_max_timestamp:: 1621999954
+Is_sw_block:: True
+Stripped_size:: 833605
+Sigops:: 19202
+Weight:: 3998139
+Extras::
+	Pool_name:: Huobi.pool
+	Pool_link:: https://www.hpt.com/
+
+Height:: 684972
+Version:: 545488900
+Mrkl_root:: c6cd7cad2ff43d1d75f97d2dc4deada8778000535bedd412d219092ab7f38f37
+Timestamp:: 1621999524
+Bits:: 386612457
+Nonce:: 4252596040
+Hash:: 000000000000000000023250cd844a802a0474d7a433c071cf0b748a43ee4a86
+Prev_block_hash:: 00000000000000000007e993588ded18c3464bc50550289b0f7ebe237cca6c39
+Next_block_hash:: 0000000000000000000a41e4b8239a419f898832b780d296e231d53905900b02
+Size:: 1304027
+Pool_difficulty:: 128143149096454
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1929
+Reward_block:: 625000000
+Reward_fees:: 57288798
+Confirmations:: 29
+Is_orphan:: False
+Curr_max_timestamp:: 1621999524
+Is_sw_block:: True
+Stripped_size:: 896358
+Sigops:: 12896
+Weight:: 3993101
+Extras::
+	Pool_name:: Binance Pool
+	Pool_link:: https://pool.binance.com/
+
+Height:: 684971
+Version:: 541065220
+Mrkl_root:: 02edb7ccbfbecb82817a7778222554a6535220eb114ffe5302b8b3ab114a437e
+Timestamp:: 1621999111
+Bits:: 386612457
+Nonce:: 904575009
+Hash:: 00000000000000000007e993588ded18c3464bc50550289b0f7ebe237cca6c39
+Prev_block_hash:: 000000000000000000084b5237035c59df7324bdb4e5b55f7f66d39017eb04b6
+Next_block_hash:: 000000000000000000023250cd844a802a0474d7a433c071cf0b748a43ee4a86
+Size:: 1184746
+Pool_difficulty:: 35573366731912
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2540
+Reward_block:: 625000000
+Reward_fees:: 42355793
+Confirmations:: 30
+Is_orphan:: False
+Curr_max_timestamp:: 1621999111
+Is_sw_block:: True
+Stripped_size:: 938249
+Sigops:: 13929
+Weight:: 3999493
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+Height:: 684970
+Version:: 536928260
+Mrkl_root:: 7029d9c942c45e7175c9b8ce91d7d8b4501e650a47901ae46f197fb8c660f9c2
+Timestamp:: 1621999030
+Bits:: 386612457
+Nonce:: 837497122
+Hash:: 000000000000000000084b5237035c59df7324bdb4e5b55f7f66d39017eb04b6
+Prev_block_hash:: 00000000000000000003e5e5a9530d27865df90e7052b9b954037a1ba4c0c00d
+Next_block_hash:: 00000000000000000007e993588ded18c3464bc50550289b0f7ebe237cca6c39
+Size:: 1357940
+Pool_difficulty:: 33935762824903
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1348
+Reward_block:: 625000000
+Reward_fees:: 60279317
+Confirmations:: 31
+Is_orphan:: False
+Curr_max_timestamp:: 1621999030
+Is_sw_block:: True
+Stripped_size:: 878296
+Sigops:: 15160
+Weight:: 3992828
+Extras::
+	Pool_name:: Binance Pool
+	Pool_link:: https://pool.binance.com/
+
+Height:: 684969
+Version:: 551550980
+Mrkl_root:: 8a3ade433a205e90e83db03c8e212fca455d1d7ba1294277d12975156edfb93e
+Timestamp:: 1621998865
+Bits:: 386612457
+Nonce:: 2296516503
+Hash:: 00000000000000000003e5e5a9530d27865df90e7052b9b954037a1ba4c0c00d
+Prev_block_hash:: 00000000000000000008c04331c73abbbecfa555e69fe2ecaa69de4ec79d68c5
+Next_block_hash:: 000000000000000000084b5237035c59df7324bdb4e5b55f7f66d39017eb04b6
+Size:: 1301198
+Pool_difficulty:: 72208527324064
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2421
+Reward_block:: 625000000
+Reward_fees:: 70779951
+Confirmations:: 32
+Is_orphan:: False
+Curr_max_timestamp:: 1621998865
+Is_sw_block:: True
+Stripped_size:: 899490
+Sigops:: 19185
+Weight:: 3999668
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+Height:: 684968
+Version:: 549453828
+Mrkl_root:: 0b1cf5ca88598816228bb2c6adf611b3183ea7cad938d67dfc74f23f859acdd9
+Timestamp:: 1621998831
+Bits:: 386612457
+Nonce:: 1729977417
+Hash:: 00000000000000000008c04331c73abbbecfa555e69fe2ecaa69de4ec79d68c5
+Prev_block_hash:: 00000000000000000002e6615329daf17858e8de4863918ae13ffb90808fea75
+Next_block_hash:: 00000000000000000003e5e5a9530d27865df90e7052b9b954037a1ba4c0c00d
+Size:: 1153258
+Pool_difficulty:: 32164319875315
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1323
+Reward_block:: 625000000
+Reward_fees:: 103390642
+Confirmations:: 33
+Is_orphan:: False
+Curr_max_timestamp:: 1621998831
+Is_sw_block:: True
+Stripped_size:: 946784
+Sigops:: 9990
+Weight:: 3993610
+Extras::
+	Pool_name:: ViaBTC
+	Pool_link:: https://viabtc.com
+
+Height:: 684967
+Version:: 541065220
+Mrkl_root:: 18d6b15f6f6e2f6b01a0945d13f9f95fbdf33a60721c4202b35f5280192aa0a7
+Timestamp:: 1621997655
+Bits:: 386612457
+Nonce:: 1011455539
+Hash:: 00000000000000000002e6615329daf17858e8de4863918ae13ffb90808fea75
+Prev_block_hash:: 0000000000000000000353a6d76d6d27ee8c7f1df211a75ab48d54623b31eaaa
+Next_block_hash:: 00000000000000000008c04331c73abbbecfa555e69fe2ecaa69de4ec79d68c5
+Size:: 1186108
+Pool_difficulty:: 97061613577197
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1205
+Reward_block:: 625000000
+Reward_fees:: 98611821
+Confirmations:: 34
+Is_orphan:: False
+Curr_max_timestamp:: 1621997655
+Is_sw_block:: True
+Stripped_size:: 935814
+Sigops:: 10185
+Weight:: 3993550
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684966
+Version:: 536895492
+Mrkl_root:: 550a5efa2c1cdf74a1ede6ae412fcc63eba6aae10c82c733cbfea5c5dc0cce6d
+Timestamp:: 1621996895
+Bits:: 386612457
+Nonce:: 654322739
+Hash:: 0000000000000000000353a6d76d6d27ee8c7f1df211a75ab48d54623b31eaaa
+Prev_block_hash:: 00000000000000000005d4b5a3b11f699f329ede7793f54ba9ad0532177a9d28
+Next_block_hash:: 00000000000000000002e6615329daf17858e8de4863918ae13ffb90808fea75
+Size:: 1367315
+Pool_difficulty:: 84608262463113
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2238
+Reward_block:: 625000000
+Reward_fees:: 108375335
+Confirmations:: 35
+Is_orphan:: False
+Curr_max_timestamp:: 1621996895
+Is_sw_block:: True
+Stripped_size:: 877031
+Sigops:: 20658
+Weight:: 3998408
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684965
+Version:: 536870916
+Mrkl_root:: 11690a8da6d3efc03804c6ac83da9b6bdd64528171e6ed435939d776d0f58934
+Timestamp:: 1621995786
+Bits:: 386612457
+Nonce:: 1451738549
+Hash:: 00000000000000000005d4b5a3b11f699f329ede7793f54ba9ad0532177a9d28
+Prev_block_hash:: 00000000000000000004f7e4430a3e12e259f71d478435a3b4f13bb899e61530
+Next_block_hash:: 0000000000000000000353a6d76d6d27ee8c7f1df211a75ab48d54623b31eaaa
+Size:: 1480323
+Pool_difficulty:: 48272362237055
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1848
+Reward_block:: 625000000
+Reward_fees:: 102090088
+Confirmations:: 36
+Is_orphan:: False
+Curr_max_timestamp:: 1621995786
+Is_sw_block:: True
+Stripped_size:: 839323
+Sigops:: 22652
+Weight:: 3998292
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684964
+Version:: 536870916
+Mrkl_root:: 34c75bfc6e96014b2cb88dcb81d5527b6a3e4389a670781037ae84c895f2c8cd
+Timestamp:: 1621995204
+Bits:: 386612457
+Nonce:: 2157570858
+Hash:: 00000000000000000004f7e4430a3e12e259f71d478435a3b4f13bb899e61530
+Prev_block_hash:: 00000000000000000002c8f73d3e35b9e1e1239ebe5776fabf7dc353d46a1d05
+Next_block_hash:: 00000000000000000005d4b5a3b11f699f329ede7793f54ba9ad0532177a9d28
+Size:: 1305283
+Pool_difficulty:: 56653058926588
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2831
+Reward_block:: 625000000
+Reward_fees:: 110419164
+Confirmations:: 37
+Is_orphan:: False
+Curr_max_timestamp:: 1621995204
+Is_sw_block:: True
+Stripped_size:: 897691
+Sigops:: 29600
+Weight:: 3998356
+Extras::
+	Pool_name:: F2Pool
+	Pool_link:: https://www.f2pool.com/
+
+Height:: 684963
+Version:: 536928260
+Mrkl_root:: 55afb06ad95f2959119e526ad71139659f598636946d67be8242efaa6981a864
+Timestamp:: 1621990386
+Bits:: 386612457
+Nonce:: 2297447328
+Hash:: 00000000000000000002c8f73d3e35b9e1e1239ebe5776fabf7dc353d46a1d05
+Prev_block_hash:: 0000000000000000000307e7f359374a9e541861f8896e443cae99a152e342c4
+Next_block_hash:: 00000000000000000004f7e4430a3e12e259f71d478435a3b4f13bb899e61530
+Size:: 1631281
+Pool_difficulty:: 101065985452105
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1491
+Reward_block:: 625000000
+Reward_fees:: 48147001
+Confirmations:: 38
+Is_orphan:: False
+Curr_max_timestamp:: 1621990386
+Is_sw_block:: True
+Stripped_size:: 787314
+Sigops:: 15115
+Weight:: 3993223
+Extras::
+	Pool_name:: AntPool
+	Pool_link:: https://www.antpool.com/
+
+Height:: 684962
+Version:: 536870916
+Mrkl_root:: 822672b7b27dd93ba99df4f72fa06f7ee137925804652204f94f8c397b14dbd2
+Timestamp:: 1621990009
+Bits:: 386612457
+Nonce:: 3776403363
+Hash:: 0000000000000000000307e7f359374a9e541861f8896e443cae99a152e342c4
+Prev_block_hash:: 000000000000000000019d07961fe77dbc68e40dce5d139c69f2d4a3a4db72c8
+Next_block_hash:: 00000000000000000002c8f73d3e35b9e1e1239ebe5776fabf7dc353d46a1d05
+Size:: 1401305
+Pool_difficulty:: 92867994415437
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 2232
+Reward_block:: 625000000
+Reward_fees:: 89583404
+Confirmations:: 39
+Is_orphan:: False
+Curr_max_timestamp:: 1621990009
+Is_sw_block:: True
+Stripped_size:: 864016
+Sigops:: 18877
+Weight:: 3993353
+Extras::
+	Pool_name:: SlushPool
+	Pool_link:: https://slushpool.com/
+
+Height:: 684961
+Version:: 549453828
+Mrkl_root:: e2ce4104414dee59edaf79bf52535de8ca3bd66d12b70a96aab2424a8932a820
+Timestamp:: 1621989115
+Bits:: 386612457
+Nonce:: 3278848105
+Hash:: 000000000000000000019d07961fe77dbc68e40dce5d139c69f2d4a3a4db72c8
+Prev_block_hash:: 000000000000000000055ce18429aae565eb54e5cf3e10117587ac6a101021bf
+Next_block_hash:: 0000000000000000000307e7f359374a9e541861f8896e443cae99a152e342c4
+Size:: 1353028
+Pool_difficulty:: 174459380514804
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 1620
+Reward_block:: 625000000
+Reward_fees:: 105044908
+Confirmations:: 40
+Is_orphan:: False
+Curr_max_timestamp:: 1621989115
+Is_sw_block:: True
+Stripped_size:: 880065
+Sigops:: 14430
+Weight:: 3993223
+Extras::
+	Pool_name:: BTC.com
+	Pool_link:: https://pool.btc.com
+
+Height:: 684960
+Version:: 805298180
+Mrkl_root:: 44bdb365afd9ff6110fee8943cb83dfae8d45e3b20ab5fc18165ac22487c0bfe
+Timestamp:: 1621987564
+Bits:: 386612457
+Nonce:: 2771303057
+Hash:: 000000000000000000055ce18429aae565eb54e5cf3e10117587ac6a101021bf
+Prev_block_hash:: 000000000000000000036d8c24689c079ccb48bf7b76d37270158636b3dc5fe8
+Next_block_hash:: 000000000000000000019d07961fe77dbc68e40dce5d139c69f2d4a3a4db72c8
+Size:: 1269340
+Pool_difficulty:: 52485688430541
+Difficulty:: 25046487590083
+Difficulty_double:: 25046487590083.273
+Tx_count:: 976
+Reward_block:: 625000000
+Reward_fees:: 102525650
+Confirmations:: 41
+Is_orphan:: False
+Curr_max_timestamp:: 1621987564
+Is_sw_block:: True
+Stripped_size:: 909986
+Sigops:: 8578
+Weight:: 3999298
+Extras::
+	Pool_name:: Poolin
+	Pool_link:: https://www.poolin.com/
+
+['https://pool.btc.com', 'https://www.antpool.com/', 'https://pool.binance.com/', 'https://www.f2pool.com/', 'https://www.hpt.com/', 'https://www.poolin.com/', 'https://viabtc.com', 'https://foundrydigital.com/', 'https://www.1thash.top', 'https://slushpool.com/']Id:: 4ed0ab4e-44e1-4e41-8f07-c2c87c0d2ff7
+Name:: BTC.com
+Domain:: btc.com
+Category::
+	Sector:: Information Technology
+	Industrygroup:: Software & Services
+	Industry:: Internet Software & Services
+	Subindustry:: Internet Software & Services
+	Siccode:: 10
+	Naicscode:: 21
+Tags:: Technology, Information Technology & Services, Financial Services, B2B
+Description:: BTC.com provides an easy to use and popular block explorer, mining pool, highly secure mobile and web wallet Android Wallet iOS Wallet.
+Foundedyear:: 2015
+Location:: Herengracht 458, 1017 CA Amsterdam, Netherlands
+Timezone:: Europe/Amsterdam
+Utcoffset:: 2
+Geo::
+	Streetnumber:: 458
+	Streetname:: Herengracht
+	City:: Amsterdam
+	Postalcode:: 1017 CA
+	State:: Noord-Holland
+	Statecode:: NH
+	Country:: Netherlands
+	Countrycode:: NL
+	Lat:: 52.36550150000001
+	Lng:: 4.8896847
+Logo:: https://logo.clearbit.com/btc.com
+Facebook::
+	Handle:: btccom
+	Likes:: 8214
+Linkedin::
+	Handle:: company/btc.com
+Twitter::
+	Handle:: btccom_official
+	Id:: 758395010043744256
+	Bio:: Stable and high profit BTC, BCH, DCR, LTC, ETH,ETC, Beam, Grin, CKB mining pool, and Block Explorer.
+Email: support@btc.com
+	Followers:: 26139
+	Following:: 384
+	Location::  Beijing & Singapore
+	Site:: https://t.co/CNcu2xpisH
+	Avatar:: https://pbs.twimg.com/profile_images/1078648010039541761/E764uQC6_normal.jpg
+Crunchbase::
+	Handle:: organization/btc-com
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexaglobalrank:: 9288
+	Employees:: 45
+	Employeesrange:: 11-50
+Indexedat:: 2021-05-03T04:28:09.561Z
+Tech:: google_apps, aws_route_53, cloud_flare, zendesk, microsoft_exchange_online, outlook, microsoft_office_365, google_remarketing, mailgun, socket_io, google_analytics, app_nexus, oracle_data_integrator, atlassian_jira, splunk, apache_spark, mysql, dropbox
+Techcategories:: productivity, dns, customer_support, email_hosting_service, advertising, email_delivery_service, programming_framework, analytics, data_management, project_management_software, data_processing, database
+--------------------------------------------------------------------------------------
+Id:: d05e7e5f-d71f-4094-a504-0bbdad6b2c1e
+Name:: Antpool Bitcoin Mining
+Domain:: antpool.com
+Category::
+	Sector:: Information Technology
+	Industrygroup:: Software & Services
+	Industry:: Internet Software & Services
+	Subindustry:: Internet Software & Services
+	Siccode:: 48
+	Naicscode:: 51
+Tags:: Information Technology & Services, Technology, Financial Services, B2B
+Description:: Antpool, the advanced bitcoin mining pool on the planet
+Foundedyear:: 2014
+Location:: Bao Sheng Nan Lu, Haidian Qu, Beijing Shi, China
+Timezone:: Asia/Shanghai
+Utcoffset:: 8
+Geo::
+	Streetname:: Bao Sheng Nan Lu
+	State:: Beijing Shi
+	Country:: China
+	Countrycode:: CN
+	Lat:: 40.0315625
+	Lng:: 116.3758122
+Linkedin::
+	Handle:: company/antpool-bitcoin-mining
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexausrank:: 27302
+	Alexaglobalrank:: 29780
+	Employees:: 60
+	Employeesrange:: 51-250
+	Estimatedannualrevenue:: $10M-$50M
+Indexedat:: 2021-05-13T04:21:45.458Z
+Tech:: cloud_flare, java, google_analytics, google_tag_manager
+Techcategories:: dns, programming_framework, analytics, tag_management
+--------------------------------------------------------------------------------------
+Id:: 1e6bbc94-2a26-42b2-92b2-7f99be40a904
+Name:: Binance
+Legalname:: Binance Holdings Limited
+Domain:: binance.com
+Domainaliases:: binance.ke, binance.software, agdelo.com, igriigri.com, binance.gratis, just1click.eu, covidvisualiser.com, binance.works, binance.win, binance.bid, binance.ci, minter.wiki, hgmail.com, binance.cm, bainance.com, cryptocrow.co, binance.com.sg, bitminer.eu, binance.review, crytrex.com, youmob.com, shopbet9ja.com, cryt.org, detskigri.com, binance.guru, insta-follow.com, 8coin.io, bitcoin-turk.com, metroflog.com, binancelite.com, pajak.co.id, techbankusa.com, btcpool.io, binance.asia, binance.bargains, binance.services, 247mining.com, fastfblike.com, binance.tel, fiatbasedtoken.com, binance.vision, hashflare.com, youtubeconvert.cc, quikc.net, binance.miami, binance.be, binance.fyi, bitforward-online.com, binance.llc, binance.direct, binance.monster, tex.io, xnxxtv.com, blokkr.com
+Category::
+	Sector:: Information Technology
+	Industrygroup:: Software & Services
+	Industry:: Internet Software & Services
+	Subindustry:: Internet
+	Siccode:: 87
+	Naicscode:: 54
+Tags:: Internet, Technology, B2C
+Description:: Binance cryptocurrency exchange - We operate the worlds biggest bitcoin exchange and altcoin crypto exchange in the world by volume
+Foundedyear:: 2017
+Location:: 26 Hunsworth Ln, Cleckheaton BD19 4EF, UK
+Timezone:: Europe/London
+Utcoffset:: 1
+Geo::
+	Streetnumber:: 26
+	Streetname:: Hunsworth Lane
+	City:: Cleckheaton
+	Postalcode:: BD19 4EF
+	State:: West Yorkshire
+	Country:: United Kingdom
+	Countrycode:: GB
+	Lat:: 53.7345085
+	Lng:: -1.7166396
+Logo:: https://logo.clearbit.com/binance.com
+Facebook::
+	Handle:: binance2017
+	Likes:: 12828
+Linkedin::
+	Handle:: company/binance
+Twitter::
+	Handle:: binance
+	Id:: 877807935493033984
+	Bio:: The World's Leading Cryptocurrency Exchange #Binance #BNB
+	Followers:: 3109837
+	Following:: 418
+	Site:: https://t.co/4JUYn83zk5
+	Avatar:: https://pbs.twimg.com/profile_images/1377608897557585922/xKgTpvdh_normal.jpg
+Crunchbase::
+	Handle:: organization/binance
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexaglobalrank:: 139
+	Employees:: 1500
+	Employeesrange:: 1K-5K
+	Raised:: 10000000
+	Estimatedannualrevenue:: $250M-$500M
+Indexedat:: 2021-05-01T21:36:22.201Z
+Tech:: google_apps, aws_route_53, google_analytics, google_tag_manager, quickbooks, splunk, mongodb, postgresql, mysql, oracle_hyperion, dropbox
+Techcategories:: productivity, dns, analytics, tag_management, accounting_and_finance, data_processing, database, business_management
+--------------------------------------------------------------------------------------
+Id:: 76a9865e-4427-4ac7-bd43-97dcaa990fe5
+Name:: F2Pool
+Domain:: f2pool.com
+Category::
+	Sector:: Information Technology
+	Industrygroup:: Software & Services
+	Industry:: Internet Software & Services
+	Subindustry:: Internet Software & Services
+	Siccode:: 48
+	Naicscode:: 51
+Tags:: Information Technology & Services, B2C, Marketplace, B2B
+Description:: F2Pool is a geographically distributed mining pool, helping miners all over the globe secure Bitcoin and 40+ Proof–of–Work networks since 2013.
+Foundedyear:: 2013
+Location:: Wangjing Subdistrict, Chaoyang, China, 100102
+Timezone:: Asia/Shanghai
+Utcoffset:: 8
+Geo::
+	Postalcode:: 100102
+	State:: Beijing
+	Country:: China
+	Countrycode:: CN
+	Lat:: 39.994003
+	Lng:: 116.471219
+Logo:: https://logo.clearbit.com/f2pool.com
+Linkedin::
+	Handle:: company/f2pool
+Twitter::
+	Handle:: f2pool_official
+	Id:: 971692688247422976
+--------------------------------------------------------------------------------------
+Id:: 401bdfab-6f51-4c1c-83e7-e313dae1d146
+Name:: Heartland Park Topeka
+Domain:: hpt.com
+Category::
+	Sector:: Health Care
+	Industrygroup:: Health Care Equipment & Services
+	Industry:: Health Care Providers & Services
+	Subindustry:: Health & Wellness
+	Siccode:: 80
+	Naicscode:: 62
+Tags:: Health & Wellness
+Location:: 1805 SW 71st St, Topeka, KS 66619, USA
+Timezone:: America/Chicago
+Utcoffset:: -5
+Geo::
+	Streetnumber:: 1805
+	Streetname:: Southwest 71st Street
+	City:: Topeka
+	Postalcode:: 66619
+	State:: Kansas
+	Statecode:: KS
+	Country:: United States
+	Countrycode:: US
+	Lat:: 38.938505
+	Lng:: -95.7018367
+Emailprovider:: False
+Type:: private
+Phone:: +1 785-862-4781
+Metrics::
+	Alexaglobalrank:: 144835
+Indexedat:: 2021-05-02T19:07:56.026Z
+Tech:: aws_route_53
+Techcategories:: dns
+
+Extracted Emails:: 
+sermons@hpt.com
+wallyw@hpt.com
+cgallas@hpt.com
+swarta@hpt.com
+klong@hpt.com
+info@hpt.com
+kings@hpt.com
+ste@hpt.com
+chicagomasschoir@hpt.com
+--------------------------------------------------------------------------------------
+Id:: 1a59a7b7-c495-44b2-93a4-d5add3ae2131
+Name:: Poolin
+Domain:: poolin.com
+Domainaliases:: blockin.com
+Category::
+	Sector:: Information Technology
+	Industrygroup:: Software & Services
+	Industry:: Internet Software & Services
+	Subindustry:: Internet
+	Siccode:: 87
+	Naicscode:: 54
+Tags:: Internet
+Description:: Poolin.com mining pool provides multi-cryptocurrency mining service, including BTC, BCH, LTC, DASH, ETH, XMR, XMC, DCR etc.. In Poolin, you will enjoy higher profits, lower pool fee, more stable pool system and better customer service. Besides, mining ...
+Foundedyear:: 2019
+Location:: Dongcheng, China, 100010
+Timezone:: Asia/Shanghai
+Utcoffset:: 8
+Geo::
+	Postalcode:: 100010
+	State:: Beijing
+	Country:: China
+	Countrycode:: CN
+	Lat:: 39.9203015
+	Lng:: 116.4225909
+Logo:: https://logo.clearbit.com/poolin.com
+Linkedin::
+	Handle:: company/poolinpool
+Twitter::
+	Handle:: officialpoolin
+	Id:: 910408803128041472
+	Bio:: Bitcoin & Cryptocurrency Mining Pool - BTC, ZEC, ZEN, LTC, ETH, DCR, DASH, CKB, BCH, BSV, HNS, NMC, Vcash, DOGE
+@marsproject2020
+Poolin Wallet: https://t.co/nOGp3LjGsF
+	Followers:: 4633
+	Following:: 797
+	Location:: Worldwide
+	Site:: https://t.co/GaqqspTnna
+	Avatar:: https://pbs.twimg.com/profile_images/1344408277451493376/Eslp78cU_normal.jpg
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexaglobalrank:: 25575
+	Employees:: 20
+	Employeesrange:: 11-50
+	Estimatedannualrevenue:: $1M-$10M
+Indexedat:: 2021-05-03T10:26:20.845Z
+Tech:: microsoft_exchange_online, outlook, microsoft_office_365, google_analytics, rollbar, google_tag_manager, baidu_analytics, woo_commerce, dropbox
+Techcategories:: email_hosting_service, productivity, analytics, monitoring, tag_management, ecommerce
+
+Extracted Emails:: 
+alejandro@poolin.com
+support@poolin.com
+--------------------------------------------------------------------------------------
+Id:: 4cf2b6de-8372-4884-a418-084d69aefee6
+Name:: ViaBTC
+Domain:: viabtc.com
+Category::
+	Siccode:: 10
+	Naicscode:: 21
+Tags:: B2C, B2B, Marketplace
+Description:: ViaBTC is a leading global cryptocurrency mining service provider supporting stable and secure mining for BTC, LTC, ETH, ZEC, DASH, etc. It enables convenient features including Wallet, ViaBTC Pool App, Smart Mining, Watchers, Hashrate Notifications an...
+Foundedyear:: 2016
+Location:: Tianxia, Nanshan, Shenzhen, Guangdong, China
+Timezone:: Asia/Shanghai
+Utcoffset:: 8
+Geo::
+	City:: Shenzhen
+	State:: Guangdong
+	Country:: China
+	Countrycode:: CN
+	Lat:: 22.530359
+	Lng:: 113.928975
+Logo:: https://logo.clearbit.com/viabtc.com
+Facebook::
+	Handle:: viabtc
+	Likes:: 531
+Twitter::
+	Handle:: ViaBTC
+	Id:: 763942734130393088
+	Bio:: ViaBTC is a world's TOP mining pool.
+To join our community: https://t.co/QI0RPz9viw
+Contact us if you have any questions: https://t.co/9S1TYU9lWe
+	Followers:: 28158
+	Following:: 178
+	Site:: https://t.co/dtIa4Va2i7
+	Avatar:: https://pbs.twimg.com/profile_images/1111209939517599744/fLwHq8NM_normal.png
+Crunchbase::
+	Handle:: organization/viabtc
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexaglobalrank:: 14689
+	Raised:: 2900000
+Indexedat:: 2021-05-03T05:08:21.752Z
+Tech:: cloud_flare, zendesk, microsoft_office_365, google_analytics
+Techcategories:: dns, customer_support, productivity, analytics
+
+Extracted Emails:: 
+pengweijie@viabtc.com
+support@viabtc.com
+zhangjiale@viabtc.com
+--------------------------------------------------------------------------------------
+Id:: 53664596-57b6-4a70-9261-4f45279510ab
+Name:: Foundry
+Legalname:: Foundry Digital LLC
+Domain:: foundrydigital.com
+Site::
+	Emailaddresses:: ['media@foundrydigital.com', 'hello@foundrydigital.com', 'support@foundrydigital.com']
+Category::
+	Sector:: Financials
+	Industrygroup:: Diversified Financials
+	Industry:: Diversified Financial Services
+	Subindustry:: Financial Services
+	Naicscode:: 52
+Tags:: Financial Services
+Description:: A subsidiary of @DCGco, Foundry is a financing and advisory company focused on digital asset mining and staking.
+Foundedyear:: 2019
+Location:: Rochester, NY, USA
+Timezone:: America/New_York
+Utcoffset:: -4
+Geo::
+	City:: Rochester
+	State:: New York
+	Statecode:: NY
+	Country:: United States
+	Countrycode:: US
+	Lat:: 43.15657789999999
+	Lng:: -77.6088465
+Logo:: https://logo.clearbit.com/foundrydigital.com
+Linkedin::
+	Handle:: company/foundrydigital
+Twitter::
+	Handle:: FoundryServices
+	Id:: 1281271227194236934
+	Bio:: A subsidiary of @DCGco, Foundry is a financing and advisory company focused on digital asset mining and staking.
+	Followers:: 5873
+	Following:: 47
+	Location:: New York, USA
+	Site:: https://t.co/CS99Bonard
+	Avatar:: https://pbs.twimg.com/profile_images/1298708890138288133/hAaQ0o_z_normal.jpg
+Emailprovider:: False
+Type:: private
+Metrics::
+	Alexaglobalrank:: 1816564
+	Employees:: 5
+	Employeesrange:: 1-10
+	Estimatedannualrevenue:: $0-$1M
+Indexedat:: 2021-05-07T16:49:23.447Z
+Tech:: elasticemail, microsoft_exchange_online, outlook, microsoft_office_365
+Techcategories:: email_delivery_service, email_hosting_service, productivity
+
+Extracted Emails:: 
+media@foundrydigital.com
+hello@foundrydigital.com
+support@foundrydigital.com
+--------------------------------------------------------------------------------------
+Id:: c6be274f-7449-4160-b46f-f4c12d335faa
+Domain:: 1thash.top
+Emailprovider:: False
+Type:: personal
+Metrics::
+	Alexaglobalrank:: 4195756
+Indexedat:: 2021-05-11T14:28:04.474Z
+Tech:: google_analytics
+Techcategories:: analytics
+--------------------------------------------------------------------------------------
+Id:: 65787e3a-5c5a-4d61-8c7e-2bbc43f2386c
+Name:: Slush Pool
+Domain:: slushpool.com
+Domainaliases:: bitcoin.cz
+Category::
+	Siccode:: 10
+	Naicscode:: 21
+Tags:: B2C
+Description:: Email support: support@slushpool.com
+Foundedyear:: 2010
+Logo:: https://logo.clearbit.com/slushpool.com
+Facebook::
+	Handle:: miningbitcoincz
+	Likes:: 16607
+Twitter::
+	Handle:: slush_pool
+	Id:: 2901933816
+	Bio:: Mining #bitcoin since 2010.
+
+Run by @braiins_systems | pool, Braiins OS+ & Stratum V2
+	Followers:: 24181
+	Following:: 473
+	Location:: Prague, Czech Republic
+	Site:: https://t.co/m09VLbAbIH
+	Avatar:: https://pbs.twimg.com/profile_images/1362816734630187015/gV5pqUgw_normal.jpg
+Emailprovider:: False
+Type:: personal
+Metrics::
+	Alexausrank:: 17275
+	Alexaglobalrank:: 22533
+Indexedat:: 2021-05-14T11:26:50.549Z
+Tech:: google_apps, freshdesk, google_analytics, google_tag_manager
+Techcategories:: productivity, customer_support, analytics, tag_management
+
+Extracted Emails:: 
+help@slushpool.com
+--------------------------------------------------------------------------------------
