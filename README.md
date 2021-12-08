@@ -8,7 +8,7 @@ To understand, explore and provide methods, procedures, tools & techniques for B
 
 # Cryptocurrencies Focussed
 
-  - Bitcoin (WIP)
+  - Bitcoin - Bitcoin (WIP)
   - Ethereum - Ether (WIP) 
   - Litecoin - Planned
 
@@ -16,6 +16,9 @@ To understand, explore and provide methods, procedures, tools & techniques for B
 
   - BigchainDB - Planned
   - Hyperledger - Planned
+
+# NFTs Focussed
+TBD
 
 # Work Carried 
 
@@ -61,10 +64,10 @@ To understand, explore and provide methods, procedures, tools & techniques for B
   - **2020**
     - _Ramaguru R_ as Research Associate  
   - **2021**
-    - _Anuhya Gandavaram_ (AG) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
-    - _Anirudh Srinivas Balaji_ (ASB) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
-    - _Anjali Pillai_ (AP) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
+    - _Anuhya Gandavaram_ (AG) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
+    - _Anirudh Srinivas Balaji_ (ASB) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
+    - _Anjali Pillai_ (AP) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
 
 # Publications
-
+TBD
     
