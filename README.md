@@ -1,16 +1,19 @@
-# Cryptocurrency-Forensics
+# Blockchain & Cryptocurrency Forensics
 
-This repository details the series of works on Cryptocurrency Forensics from 2018 to present in general and as part of Cyber Forensics Subject.
+This Repository details the series of works on **Blockchain & Cryptocurrency Forensics** from 2018 to date in general and as part of Cyber Forensics Course.
 
 # Aim 
 
-To understand, explore and provide methods, procedures, tools & techniques for Cryptocurrency Forensics.
+To understand, explore and provide methods, procedures, tools & techniques for Blockchain & Cryptocurrency Forensics.
 
 # Cryptocurrencies Focussed
 
   - Bitcoin (WIP)
   - Ethereum - Ether (WIP) 
   - Litecoin - Planned
+
+# Blockchain Focussed
+
   - BigchainDB - Planned
   - Hyperledger - Planned
 
@@ -54,13 +57,13 @@ To understand, explore and provide methods, procedures, tools & techniques for C
 
 # Credits  
   - **2018**
-    - Ramaguru R guided by Ashok Kumar Mohan (part of Cyber Forensics)
+    - _Ramaguru R_ guided by _Ashok Kumar Mohan_ (part of M.Tech - Cyber Forensics: 16CY613)
   - **2020**
-    - Ramaguru R as Research Associate  
-  - **2021 **
-    - Anuhya Gandavaram (AG) guided by Ramaguru R (part of Cyber Forensics)
-    - Anirudh Srinivas Balaji (ASB) guided by Ramaguru R (part of Cyber Forensics)
-    - Anjali Pillai (AP) guided by Ramaguru R (part of Cyber Forensics)
+    - _Ramaguru R_ as Research Associate  
+  - **2021**
+    - _Anuhya Gandavaram_ (AG) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
+    - _Anirudh Srinivas Balaji_ (ASB) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
+    - _Anjali Pillai_ (AP) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 21CY613)
 
 # Publications
 
