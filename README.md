@@ -1,6 +1,6 @@
 # Cryptocurrency-Forensics
 
-This repository details the series of works from 2018 to present in general and as part of Cyber Forensics Subject.
+This repository details the series of works on Cryptocurrency Forensics from 2018 to present in general and as part of Cyber Forensics Subject.
 
 # Aim 
 
@@ -16,7 +16,7 @@ To understand, explore and provide methods, procedures, tools & techniques for C
 
 # Work Carried 
 
-  - 2018
+  - **2018**
     - Understanding Bitcoin Blockchain and its Architecture
     - Understanding the challenges existing to perform Forensic Analysis
     - Understanding various Bitcoin wallets 
@@ -28,7 +28,7 @@ To understand, explore and provide methods, procedures, tools & techniques for C
     - Experimentation of existing Bitcoin Forensics Products and Solutions 
     - Implementation of Simple Bitcoin Block File Analyser
 
-  - 2020 & 2021
+  - **2020 & 2021**
     - Collection of Suspicious Bitcoin Addresses 
     - Collection of Bitcoin Addressess associated with Dark Web and Ransomware
     - Understanding Bitcoin Mixers and Exchanges
@@ -41,7 +41,7 @@ To understand, explore and provide methods, procedures, tools & techniques for C
     - Private Key Security
     - Exploring and Experimentation with Hardware Wallet (Trezor)
 
-  - 2021
+  - **2021**
     - Exploring the various Bitcoin Blockchain Explorer APIs (AG)
     - Exploring the Etherscan Explorer APIs (AG)
     - Implementation of Simple Bitcoin Block File Analyser using Python (AG) 
@@ -53,12 +53,15 @@ To understand, explore and provide methods, procedures, tools & techniques for C
     - Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (AP)
 
 # Credits  
-  - 2018
+  - **2018**
     - Ramaguru R guided by Ashok Kumar Mohan (part of Cyber Forensics)
-  - 2020
+  - **2020**
     - Ramaguru R as Research Associate  
-  - 2021 
+  - **2021 **
     - Anuhya Gandavaram (AG) guided by Ramaguru R (part of Cyber Forensics)
     - Anirudh Srinivas Balaji (ASB) guided by Ramaguru R (part of Cyber Forensics)
     - Anjali Pillai (AP) guided by Ramaguru R (part of Cyber Forensics)
+
+# Publications
+
     
