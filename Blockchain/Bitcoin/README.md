@@ -19,7 +19,7 @@
   
 #### Bitcoin Block Header Format
   <p align="center">
-  <img src="../Assets/Bitcoin/Bitcoin-Core/Block_Header.png" alt="Block Header" width="800">
+  <img src="../Assets/Bitcoin/Bitcoin-Core/Block_Header.png" alt="Block Header" width="2000">
   </p>  
   
 #### Block.DAT File Analysis
