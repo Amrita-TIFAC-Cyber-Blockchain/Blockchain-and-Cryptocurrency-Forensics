@@ -36,9 +36,9 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - Understanding Bitcoin Address Generation and Bitcoin Scripts
     - Understanding the Challenges existing to perform Forensic Analysis
     - Understanding various Bitcoin Wallets 
-    - Understanding Bitcoin Core wallet and its usage
+    - [Understanding Bitcoin Core wallet and its usage](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/Bitcoin-Core)
     - Understanding Bitcoin Blockchain Explorer and its API usage
-    - Analysis of Bitcoin Folder containing the raw block details   
+    - [Analysis of Bitcoin Folder containing the raw block details](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/Bitcoin-Core) 
     - Experimentation of existing Forensics tools (Network, Memory and OS) for Bitcoin Forensics
     - Analysis & Experimentation of existing Bitcoin Forensics Products and Solutions 
     - Implementation of Simple Bitcoin Block File Analyzer
@@ -62,15 +62,15 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - Exploring the Use of Metaverse for Forensic Analysis
 
   - **2021**
-    - Exploring the various Bitcoin Blockchain Explorer APIs (AG)
-    - Exploring the Etherscan Explorer APIs (AG)
-    - Implementation of Simple Bitcoin Block File Analyser using Python (AG) 
-    - Implementation of Simple Bitcoin Explorer (Blockcypher) API using Python (AG)
-    - Implementation of Simple Etherscan Explorer API using Python (AG)
-    - Exploring OSINT Tools for Bitcoin (ASB, PAA)
-    - Implementation of Simple Bitcoin OSINT Scanner using Python and OSINT-SPY (ASB)
-    - Implementation of Simple Bitcoin OSINT Scanner using Bash and OSINT-SPY (ASB)
-    - Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA)
+    - [Exploring the various Bitcoin Blockchain Explorer APIs (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
+    - [Exploring the Etherscan Explorer APIs (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Ethereum/)
+    - [Implementation of Simple Bitcoin Block File Analyser using Python (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
+    - [Implementation of Simple Bitcoin Explorer (Blockcypher) API using Python (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
+    - [Implementation of Simple Etherscan Explorer API using Python (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Ethereum/)
+    - [Exploring OSINT Tools for Bitcoin (ASB, PAA)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
+    - [Implementation of Simple Bitcoin OSINT Scanner using Python and OSINT-SPY (ASB)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
+    - [Implementation of Simple Bitcoin OSINT Scanner using Bash and OSINT-SPY (ASB)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
+    - [Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
 
 ## Credits  
   - **2018**
