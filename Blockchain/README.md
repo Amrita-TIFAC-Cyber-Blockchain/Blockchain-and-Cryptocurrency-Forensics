@@ -1,6 +1,6 @@
 # Blockchain Main Page 
 
-## Bitcoin
+### [Bitcoin](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
 
-## Ethereum
+### [Ethereum](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Ethereum/)
 
