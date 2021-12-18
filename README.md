@@ -36,10 +36,15 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - Understanding Bitcoin Address Generation and Bitcoin Scripts
     - Understanding the Challenges existing to perform Forensic Analysis
     - Understanding various Bitcoin Wallets 
-    - [Understanding Bitcoin Core wallet and its usage](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/Bitcoin-Core)
+    - [Understanding Bitcoin Core wallet and its usage](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
     - Understanding Bitcoin Blockchain Explorer and its API usage
-    - [Analysis of Bitcoin Folder containing the raw block details](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/Bitcoin-Core) 
+    - [Analysis of Bitcoin Folder containing the raw block details](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/) 
     - Experimentation of existing Forensics tools (Network, Memory and OS) for Bitcoin Forensics
+    - Experimentation of existing Bitcoin Forensics Tools
+      - Numisight Explorer
+      - Cipher Trace
+      - Block Cypher
+      - BTScan
     - Analysis & Experimentation of existing Bitcoin Forensics Products and Solutions 
     - Implementation of Simple Bitcoin Block File Analyzer
 
@@ -60,6 +65,7 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - Exploring & Understanding NFTs and Scope of its Forensics
     - Exploring the Scope of Metaverse Forensics
     - Exploring the Use of Metaverse for Forensic Analysis
+    - Exploration to Design a Open-Source Cryptocurrency Forensics Framework (OSCFF)
 
   - **2021**
     - [Exploring the various Bitcoin Blockchain Explorer APIs (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
@@ -70,11 +76,12 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - [Exploring OSINT Tools for Bitcoin (ASB, PAA)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
     - [Implementation of Simple Bitcoin OSINT Scanner using Python and OSINT-SPY (ASB)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
     - [Implementation of Simple Bitcoin OSINT Scanner using Bash and OSINT-SPY (ASB)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
-    - [Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
+    - [Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
+    - [Design of Open-Source Cryptocurrency Forensics Framework (AG, RG)](OSCFF.md)
 
 ## Credits  
   - **2018**
-    - _Ramaguru R_ guided by _Ashok Kumar Mohan_ (part of M.Tech - Cyber Forensics: 16CY613)
+    - _Ramaguru R_ (RG) guided by _Ashok Kumar Mohan_ (AK) (part of M.Tech - Cyber Forensics: 16CY613)
   - **2020**
     - _Ramaguru R_ as Research Associate  
   - **2021**
@@ -84,5 +91,5 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - _Pillai Anjali Anilkumar_ (PAA) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)  
 
 ## Publications
-TBD
+ - [Submitted] Anuhya G, Ramaguru R (2022). **ANRA: An Open-Source Cryptocurrency 4N6 Framework**. D4N6.
     
