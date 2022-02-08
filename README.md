@@ -82,6 +82,8 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - [Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
     - [Design of Open-Source Cryptocurrency Forensics Framework (AG, RG)](OSCFF.md)
 
+  - **2022**
+
 ## Credits  
   - **2018**
     - _Ramaguru R_ (RG) guided by _Ashok Kumar Mohan_ (AK) (part of M.Tech - Cyber Forensics: 16CY613)
@@ -92,7 +94,8 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - _Anuhya Gandavaram_ (AG) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
     - _Anirudh Srinivas Balaji_ (ASB) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
     - _Pillai Anjali Anilkumar_ (PAA) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)  
+  - **2022**
 
 ## Publications
- - [Submitted] Anuhya G, Ramaguru R (2022). **ANRA: An Open-Source Cryptocurrency 4N6 Framework**. D4N6.
+ - Anuhya G, Ramaguru R (2022). **Open-Source Cryptocurrency Forensic Framework**. Digital 4N6. [https://doi.org/10.46293/4n6/2022.02.01.03](https://doi.org/10.46293/4n6/2022.02.01.03)
     
