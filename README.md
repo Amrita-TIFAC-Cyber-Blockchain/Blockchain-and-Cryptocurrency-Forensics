@@ -97,5 +97,5 @@ To understand, explore and provide methods, procedures, tools & techniques for B
   - **2022**
 
 ## Publications
- - Anuhya G, Ramaguru R (2022). **Open-Source Cryptocurrency Forensic Framework**. Digital 4N6. [https://doi.org/10.46293/4n6/2022.02.01.03](https://doi.org/10.46293/4n6/2022.02.01.03)
+ - Anuhya G, Ramaguru R (2022). **Open-Source Cryptocurrency Forensic Framework**. _Digital 4N6._ vol 4 issue 1. pp 20-26. Digital 4N6. [https://doi.org/10.46293/4n6/2022.02.01.03](https://doi.org/10.46293/4n6/2022.02.01.03)
     
