@@ -1,9 +1,9 @@
-# Blockchain & Cryptocurrency Forensics
-![](https://img.shields.io/badge/Batch-17CYS-green) ![](https://img.shields.io/badge/Batch-20CYS-green) ![](https://img.shields.io/badge/Focus-Blockchain_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Cryptocurrency_Forensics-yellow) ![](https://img.shields.io/badge/Focus-NFT_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Metaverse_Forensics-yellow) <br/>
+# Blockchain & Cryptocurrency Forensics ![](https://img.shields.io/badge/-Live-brightgreen)
+![](https://img.shields.io/badge/Batch-17CYS-green) ![](https://img.shields.io/badge/Batch-20CYS-green) ![](https://img.shields.io/badge/Batch-21CYS-green) ![](https://img.shields.io/badge/Focus-Blockchain_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Cryptocurrency_Forensics-yellow) ![](https://img.shields.io/badge/Focus-NFT_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Metaverse_Forensics-yellow) <br/>
 ![](https://img.shields.io/badge/Cryptocurrency-Bitcoin-blue) ![](https://img.shields.io/badge/Cryptocurrency-Ethereum-blue) <br/>
 ![](https://img.shields.io/badge/Blockchain-Bitcoin-blue) ![](https://img.shields.io/badge/Blockchain-Ethereum-blue)  ![](https://img.shields.io/badge/Blockchain-Hyperledger-blue)
 
-This Repository details the series of works on **Blockchain & Cryptocurrency Forensics** from 2018 to date in general and as part of Cyber Forensics Course.
+This Repository details the series of works on **Blockchain & Cryptocurrency Forensics** from 2018 to date in general and as part of **Cyber Forensics & Blockchain Technology Course.**
 
 ## Aim 
 
@@ -51,7 +51,7 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - Analysis & Experimentation of existing Bitcoin Forensics Products and Solutions 
     - Implementation of Simple Bitcoin Block File Analyzer
 
-  - **2020 & 2021**
+  - **2020**
     - Collection of Suspicious Bitcoin Addresses 
     - Collection of Bitcoin Addressess associated with Dark Web and Ransomware
     - Understanding Bitcoin Mixers and Exchanges
@@ -63,13 +63,7 @@ To understand, explore and provide methods, procedures, tools & techniques for B
       - Free Bitcoin Cash 
       - Free Litecoin
       - Pi 
-    - Private Key Security
-    - Exploring and Experimentation with Hardware Wallet (Trezor)
-    - Exploring & Understanding NFTs and Scope of its Forensics
-    - Exploring the Scope of Metaverse Forensics
-    - Exploring the Use of Metaverse for Forensic Analysis
-    - Exploration to Design a Open-Source Cryptocurrency Forensics Framework (OSCFF)
-
+    
   - **2021**
     - [Exploring the various Bitcoin Blockchain Explorer APIs (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Bitcoin/)
     - [Exploring the Etherscan Explorer APIs (AG)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/Blockchain/Ethereum/)
@@ -81,8 +75,18 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - [Implementation of Simple Bitcoin OSINT Scanner using Bash and OSINT-SPY (ASB)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
     - [Implementation of Simple Bitcoin Social Media (Twitter) OSINT Scanner using Python (PAA)](https://amrita-tifac-cyber-blockchain.github.io/Blockchain-and-Cryptocurrency-Forensics/OSINT/Bitcoin)
     - [Design of Open-Source Cryptocurrency Forensics Framework (AG, RG)](OSCFF.md)
+    - Private Key Security (RG)
+    - Exploring and Experimentation with Hardware Wallet (Trezor) (RG)
+    - Exploring & Understanding NFTs and Scope of its Forensics (RG)
+    - Exploring & Understanding the Scope of Metaverse Forensics (RG)
+    - Exploring the Use of Metaverse for Forensic Analysis (RG)
+    - Analysis of Various Cryptocurrency Mining Mobile Apps (RG)
+      - Pi 
+    - Exploration to Design a Open-Source Cryptocurrency Forensics Framework (OSCFF) (RG)
+    - Exploring the Possibility of Internet of Vehicle (IoV) Forensics (RG)
 
   - **2022**
+    -  Challenges in Metaverse
 
 ## Credits  
   - **2018**
