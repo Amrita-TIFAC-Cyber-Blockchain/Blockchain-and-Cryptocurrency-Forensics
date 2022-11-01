@@ -99,6 +99,7 @@ To understand, explore and provide methods, procedures, tools & techniques for B
     - _Anirudh Srinivas Balaji_ (ASB) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)
     - _Pillai Anjali Anilkumar_ (PAA) guided by _Ramaguru R_ (part of M.Tech - Cyber Forensics: 20CY621)  
   - **2022**
+    - _Mohamed Feroz Khan D_ (MFK) guided by _Ramaguru R_ (part of M.Tech Dissertation)
 
 ## Publications
  - [Anuhya G, R Ramaguru]() (2022). **Open-Source Cryptocurrency Forensic Framework**. _Digital 4N6._ Vol. IV, Issue I. pp. 20-26. Digital 4N6. [https://doi.org/10.46293/4n6/2022.02.01.03](https://doi.org/10.46293/4n6/2022.02.01.03)
