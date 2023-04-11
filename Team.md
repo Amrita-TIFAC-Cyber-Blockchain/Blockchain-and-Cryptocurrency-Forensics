@@ -5,11 +5,11 @@
 ![](https://img.shields.io/badge/Cryptocurrency-Bitcoin-blue) ![](https://img.shields.io/badge/Cryptocurrency-Ethereum-blue) <br/>
 ![](https://img.shields.io/badge/Blockchain-Bitcoin-blue) ![](https://img.shields.io/badge/Blockchain-Ethereum-blue)  ![](https://img.shields.io/badge/Blockchain-Hyperledger-blue)
 
-| Name | Blockchain | Domain | Tools |
-|:----:|:----------:|:------:|:-----:|
-| Ramaguru Radhakrishnan |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
-| Gandavaram Anuhya |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
-| Mohamed Feroz Khan D  |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
-| Pandya Tanvi Kamalkumar |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
-| Chinni Nagasree Hansica |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
-| Lalitha K |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Name | Cryptocurrency | Blockchain | Domain | Tools |
+|:----:|:--------------:|:----------:|:------:|:-----:|
+| Ramaguru Radhakrishnan | ✓ | ✓ |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Gandavaram Anuhya |  | ✓ | ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Mohamed Feroz Khan D  | ✓ |  |  ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Pandya Tanvi Kamalkumar | ✓ |  | ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Chinni Nagasree Hansica |  | ✓ | ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
+| Lalitha K |  | ✓ | ![](https://img.shields.io/badge/-Research-blue) ![](https://img.shields.io/badge/-Security-brown) | All |
