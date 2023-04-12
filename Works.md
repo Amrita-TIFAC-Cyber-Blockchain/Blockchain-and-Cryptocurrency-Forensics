@@ -58,9 +58,30 @@
     - Exploring the Possibility of Internet of Vehicle (IoV) Forensics (RG)
 
   - **2022**
-    -  Challenges in Metaverse
-
+    -  Challenges in Metaverse. 
+    -  Studied and explored the Maltego Tool with all cryptocurrency addresses (MFK, RG)
+    -  Explored the Shodan Tool and discovered about the mining device information (i.e Antminer) related to Ethereum and Bitcoin (MFK)
+    -  Studied and explored Graph Temporal Visualization (MFK, RG) 
+      -  Discovered Python libraries: Pathpy, NetworkX, Stellagraph 
+    -  Studied and explored the Mitaka Tool (MFK)
+    -  Discovered and explored the SICP Ueba su website for malicious address database (MFK)
+    -  Implemented the Graph Temporal Visualization using the python libraries Pathpy and NetworkX (MFK,RG)
+    -  Explored the Memgraph (MFK,RG)
+    -  Case studies:
+       - Whitehouse Attack
+       -	Indian Bitcoin Scam 2020
+       - FBI Silk Route
+      
   - **2023**
+    -  Analysed and Explored the Arkham Tool (MFK)
+    -  Made a study about the list of Tools TRM labs, Footprint Analytics, breadcrumbs.app, glasschain.org (MFK)
+    -  Case studies:
+       -	Unocoin
+       - GainBitcoin
+       -	Onecoin
+       -	QuadringaCX
+       -	North Korean Hacking
+       -	Mt.Gox
 
 ## Credits  
   - **2018 - 2020**
