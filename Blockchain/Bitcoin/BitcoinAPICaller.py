@@ -1,10 +1,10 @@
 #####################################################################################################
-# Program Name : BitcoinAPICaller.py																#
-# Description  : Library of APIs from blockcypher.com to gather data about bitcoin blockchain 		#
-# Author       : Anuhya Gandavaram(git ID: AnuhyaGandavaram)										#
+# Program Name : BitcoinAPICaller.py																
+# Description  : Library of APIs from blockcypher.com to gather data about Bitcoin Blockchain 		
+# Author       : Anuhya Gandavaram (git ID: AnuhyaGandavaram)										
 # Created Date : 12 May 2021																		#
 # Last Updated : 15 May 2021																		#
-# Execution	   : python BitcoinAPICaller.py 														#
+# Execution    : python BitcoinAPICaller.py 														
 #####################################################################################################
 
 
@@ -50,8 +50,6 @@ elif choice==7 or choice==8:
 	wallet_Name = input("Enter Wallet Name (sample: alice): ")
 else:
 	print()
-
-
 
 if choice==1:
 	result = get_blockchain_overview()
