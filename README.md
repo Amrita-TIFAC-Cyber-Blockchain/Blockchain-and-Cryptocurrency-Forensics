@@ -47,6 +47,11 @@ To understand, explore and provide methods, procedures, tools & techniques for f
  - Axie Infinity
  - MegaCryptoPolis 3D
 
+## Dissertations
+- **Mohamed Feroz Khan D**<br/>
+  [Blockchain Forensics using OSINT and Temporal Graph Visualization](https://github.com/Amrita-TIFAC-Cyber-Blockchain/Blockchain-Forensics-using-OSINT-and-Temporal-Graph-Visualization)
+
+
 ## Publications
  - ![](https://img.shields.io/badge/-MTech_Course_Project-blue) [Anuhya G, R Ramaguru]() (2022). **Open-Source Cryptocurrency Forensic Framework**. _Digital 4N6._ Vol. IV, Issue I. pp. 20-26. Digital 4N6. [https://doi.org/10.46293/4n6/2022.02.01.03](https://doi.org/10.46293/4n6/2022.02.01.03)
  - ![](https://img.shields.io/badge/-MTech_Course_Project-blue) [Pillai Anjali Anilkumar, Anirudh Srinivas Balaji](a) (2022). **OSINT For Cryptocurrency Forensics.** _Digital 4N6._ Vol. IV, Issue II. pp. 17-23. Digital 4N6. [https://doi.org/10.46293/4n6/2022.05.01.01](https://doi.org/10.46293/4n6/2022.05.01.01)
