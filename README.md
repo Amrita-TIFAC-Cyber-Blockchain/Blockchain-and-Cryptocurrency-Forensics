@@ -1,5 +1,6 @@
 # Blockchain & Cryptocurrency Forensics ![](https://img.shields.io/badge/-Live-brightgreen)
-![](https://img.shields.io/badge/Batch-17CYS-green) ![](https://img.shields.io/badge/Batch-20CYS-green) ![](https://img.shields.io/badge/Batch-21CYS-green) ![](https://img.shields.io/badge/Batch-21UCYS-green) ![](https://img.shields.io/badge/Batch-22UCYS-green) <br/> ![](https://img.shields.io/badge/Focus-Blockchain_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Cryptocurrency_Forensics-yellow) ![](https://img.shields.io/badge/Focus-NFT_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Metaverse_Forensics-yellow) <br/>
+![](https://img.shields.io/badge/Batch-17CYS-darkgreen) ![](https://img.shields.io/badge/Batch-20CYS-darkgreen) ![](https://img.shields.io/badge/Batch-21CYS-darkgreen) ![](https://img.shields.io/badge/Batch-21UCYS-darkgreen) ![](https://img.shields.io/badge/Batch-22UCYS-darkgreen) ![](https://img.shields.io/badge/Batch-23I5DAS-gold) <br/>
+ ![](https://img.shields.io/badge/Focus-Cryptocurrency_Forensics-gold) ![](https://img.shields.io/badge/Focus-Blockchain_Forensics-yellow) ![](https://img.shields.io/badge/Focus-NFT_Forensics-yellow) ![](https://img.shields.io/badge/Focus-Metaverse_Forensics-yellow) <br/>
 ![](https://img.shields.io/badge/Cryptocurrency-Bitcoin-blue) ![](https://img.shields.io/badge/Cryptocurrency-Ethereum-blue) <br/>
 ![](https://img.shields.io/badge/Blockchain-Bitcoin-blue) ![](https://img.shields.io/badge/Blockchain-Ethereum-blue)  ![](https://img.shields.io/badge/Blockchain-Hyperledger-blue)  ![](https://img.shields.io/badge/Blockchain-Corda-blue)
 
@@ -46,6 +47,16 @@ To understand, explore and provide methods, procedures, tools & techniques for f
  - Decentraland
  - Axie Infinity
  - MegaCryptoPolis 3D
+
+## Team
+### Present 
+- Nithish Raajan N K (Integrated Data Science)
+- Mohamed Navith H (Integrated Data Science)
+- Rohith Kumar S S (Integrated Data Science)
+
+### Past
+- Mohamed Feroz Khan D (M.Tech Cyber Security)
+- Gandavaram Anuhya (M.Tech Cyber Security)
 
 ## Dissertations
 - **Mohamed Feroz Khan D**<br/>
